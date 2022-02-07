@@ -1,0 +1,13 @@
+roles:
+  - roleId: 1
+    roleName: "admin"
+
+users:
+  - id: 1
+    roleId: 1
+    login: "my-login"
+    password: "qwerty7"
+    email: "mark@gmail.com"
+    firstName: "Mark"
+    lastName: "Sheppard"
+    birthday: "2022-12-26"

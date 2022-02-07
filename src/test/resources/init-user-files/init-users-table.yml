@@ -1,0 +1,13 @@
+roles:
+  - roleId: 1
+    roleName: "admin"
+
+users:
+  - id: 1
+    roleId: 1
+    login: "ryan-adm"
+    password: "qwerty6"
+    email: "ryan@gmail.com"
+    firstName: "Ryan"
+    lastName: "Gosling"
+    birthday: "1980-11-12"
